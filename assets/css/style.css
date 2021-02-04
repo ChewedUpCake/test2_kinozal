@@ -266,6 +266,10 @@ section {
   font-size: 1.2em;
 }
 
+.film-info__wrapper {
+  white-space: nowrap;
+}
+
 .film-info__wrapper:not(:last-of-type) {
   margin-right: 15px;
 }
